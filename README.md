@@ -1,3 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-3.9%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/downloads/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-00C49A?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Required-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Patterns](https://img.shields.io/badge/Patterns-10-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+[![FPS](https://img.shields.io/badge/Real--Time-60%20FPS-BF5FFF?style=for-the-badge&logo=lightning&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-F72585?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+
 # kaleidoscope
 Pygame + NumPy to generate psychedelic textures in real time
 
