@@ -39,13 +39,3 @@ Starfield      zooming star tunnel
 Crystals       Voronoi crystal shards with glowing edges
 Aurora         northern lights curtain bands
 
-Configuration
-At the top of kaleidoscope.py a small block of constants controls default behaviour.
-WIDTH, HEIGHT      window size in pixels, default 800 by 800
-SLICES             number of mirror segments, default 12
-ROT_SPEED          rotation speed in degrees per frame, default 0.5
-AUTO_CYCLE_SECS    seconds spent on each pattern in auto mode, default 6
-FADE_FRAMES        number of frames used for the blend transition, default 45
-SCREENSHOT_DIR     folder where screenshots are saved, default screenshots
-Screenshots
-Screenshots are saved as PNG files in the screenshots folder, which is created automatically on first save. Files are named kaleid_0000.png, kaleid_0001.png and so on.
