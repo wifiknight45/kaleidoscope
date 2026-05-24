@@ -1,10 +1,10 @@
 """
 kaleidoscope.py
-════════════════════════════════════════════════════════════════════════════════
+
 A visually stunning, interactive kaleidoscope rendered with Pygame + NumPy.
 
 Controls
-────────
+
   SPACE       — next pattern (manual)
   A           — toggle auto-cycle mode (cycles every AUTO_CYCLE_SECS seconds)
   ↑ / ↓       — increase / decrease rotation speed
@@ -14,7 +14,7 @@ Controls
   ESC / Q     — quit
 
 Patterns
-────────
+
   0  Plasma        — psychedelic sine-noise field
   1  Rainbow       — smooth rolling gradient
   2  Splatter      — neon paint-blob burst
@@ -25,7 +25,7 @@ Patterns
   7  Starfield     — zooming star tunnel
   8  Crystals      — angular Voronoi-ish shards
   9  Aurora        — northern-lights curtain bands
-════════════════════════════════════════════════════════════════════════════════
+
 """
 from __future__ import annotations
 
